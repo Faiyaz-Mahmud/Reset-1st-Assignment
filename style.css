@@ -5,9 +5,9 @@ body{
 .heading h1{
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: 70px;
-    margin-left: 17%;
-    margin-right: 17%;
+    font-size: 80px;
+    margin-left: 12%;
+    margin-right: 12%;
   
 }
 .heading h2{
@@ -35,7 +35,7 @@ body{
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 130px;
+    padding: 120px;
     
  
 }
