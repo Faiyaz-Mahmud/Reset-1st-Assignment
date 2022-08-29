@@ -36,6 +36,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 120px;
+    box-shadow: 1px 6px 30px;
     
  
 }
@@ -89,4 +90,119 @@ body{
     margin-left: 25%;
     margin-right: 24%;
     margin-bottom: 3%;
+}
+.donation-plan{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    margin-top: 10%;
+}
+.head{
+    font-size: 40px;
+}
+.donate-body{
+    font-size: 22px;
+}
+.font-weight{
+    font-weight: 500;
+}
+.donation-plan-insider{
+    display: flex;
+    margin-left:11% ;
+    margin-right: 11%;
+    margin-bottom: 6%;
+}
+
+.donation-plan-insider div{
+    padding: 25px;
+    text-align: justify;
+    margin-top: 4%;
+    margin-right: 3%;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: 500;
+    margin-top:5%;
+    padding-top: 5%;
+    
+  
+}
+#food{
+    background-color:rgb(198, 230, 243);
+}
+#shelter{
+    background-color: rgb(255, 226, 231);
+
+}
+#edu{
+    background-color: rgb(252, 227, 206);
+}
+.mission-title{
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-size: 35px;
+    margin-top: 5%;
+    color: rgb(0, 0, 0);
+}
+.can-help{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+    
+}
+#youtube{
+    margin-left: 10%;
+    margin-top: 1%;
+    
+    
+}
+#can-help-inside{
+    font-size: larger;
+}
+#spon{
+    display: flex;
+    background-color:rgb(216, 216, 255);
+    border-radius: 12px;
+    margin-bottom: 5%;
+}
+#volu{
+    display: flex;
+    background-color: rgb(209, 255, 209);
+    border-radius: 12px;
+    margin-bottom: 5%;
+    
+}
+#dona{
+    display: flex;
+    background-color: rgb(249, 227, 227);
+    border-radius: 12px;
+    margin-bottom: 5%;
+    
+}
+#dona div{
+    margin: 2.5%;
+}
+#volu div{
+    margin: 2.5%;
+    text-decoration: none;
+}
+#spon div{
+    margin: 2.5%;
+}
+.back-img{
+    background-image: url(images/donation5\ \(2\).jpg);
+    background-attachment: fixed;
+    background-repeat: none;
+    background-size: 100% 100%;
+    padding-bottom: 3%;
+    padding-top: 1%;
+    margin-top: 3%;
+    box-shadow: 1px 10px 10px;
+    
+}
+.mission-title span{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+
 }
