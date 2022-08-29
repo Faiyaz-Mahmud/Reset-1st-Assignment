@@ -1,3 +1,41 @@
 body{
     font-family: 'Concert One', cursive;
+    margin: 0;
+}
+.heading h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    margin-left: 17%;
+    margin-right: 17%;
+  
+}
+.heading h2{
+    color: white;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.button{
+    
+    background-image: linear-gradient(red,tomato);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size:25px;
+    margin-left: 43.5%;
+    margin-top: 30%;
+    
+    
+    
+}
+.heading{
+    
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 130px;
+    
+ 
 }
