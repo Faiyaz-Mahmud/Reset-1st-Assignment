@@ -153,9 +153,10 @@ body{
 }
 #youtube{
     margin-left: 10%;
-    margin-top: 1%;
-    
-    
+   
+}
+#youtube div{
+    padding-top: 25px;
 }
 #can-help-inside{
     font-size: larger;
@@ -165,12 +166,16 @@ body{
     background-color:rgb(216, 216, 255);
     border-radius: 12px;
     margin-bottom: 5%;
+    text-align: justify;
+    padding:10px;
 }
 #volu{
     display: flex;
     background-color: rgb(209, 255, 209);
     border-radius: 12px;
     margin-bottom: 5%;
+    text-align: justify;
+    padding:10px;
     
 }
 #dona{
@@ -178,6 +183,8 @@ body{
     background-color: rgb(249, 227, 227);
     border-radius: 12px;
     margin-bottom: 5%;
+    text-align: justify;
+    padding:10px;
     
 }
 #dona div{
@@ -185,7 +192,7 @@ body{
 }
 #volu div{
     margin: 2.5%;
-    text-decoration: none;
+    
 }
 #spon div{
     margin: 2.5%;
